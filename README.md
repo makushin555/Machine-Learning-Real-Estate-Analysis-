@@ -1,2 +1,2 @@
 # Machine-Learning-Real-Estate-Analysis-
-Machine learning project for real estate valuation, analysis, and price prediction.
+Applied machine learning to value, analyse, and predict real estate prices.
